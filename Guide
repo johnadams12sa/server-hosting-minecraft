@@ -1,0 +1,8 @@
+Minecraft hosting Documentation
+
+1. Install latest version of Java (https://www.java.com/en/download/manual.jsp)
+2. Install the server files from Minecraft (https://www.minecraft.net/en-us/download/server/)
+3. Launch the file to create eula, server.properties and etc files (make sure it has proper permissions (execute..etc))
+4. Edit EULA file to accept terms of use
+5. Launch again to open server
+6. Control server through console
